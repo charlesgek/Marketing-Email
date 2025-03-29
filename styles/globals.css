@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .holographic {
+    background: linear-gradient(
+      45deg,
+      #48bb78 0%,
+      #4299e1 50%,
+      #9f7aea 100%
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}

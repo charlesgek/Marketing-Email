@@ -1,0 +1,13 @@
+{
+    "name": "Default Template",
+    "structure": [
+      {
+        "type": "header",
+        "content": "Welcome to Our Service"
+      },
+      {
+        "type": "body",
+        "content": "Customize this section with your content"
+      }
+    ]
+  }
